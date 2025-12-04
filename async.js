@@ -10,7 +10,6 @@ const myfun=async() => {
     console.log("Good Morning!")
     const result=await greet("Good Morning!");
     console.log(result);
-    console.log("Have a nice day");
     
 };
 myfun();
